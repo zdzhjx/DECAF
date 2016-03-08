@@ -45,6 +45,7 @@ public:
 	module()
 	{
 		this->inode_number = 0;
+		this->symbols_extracted=false;
 	}
 };
 
